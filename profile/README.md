@@ -1,10 +1,6 @@
 ## Hi there 👋
 ## AIRAMATRIX Predictive Analytics
 
-<!--
-
-**Predictive Analytics:**
-
 ### Introduction
 
 ### Guidelines for contribution
@@ -12,6 +8,10 @@
 ### docs
 
 ### Fun facts
+
+<!--
+
+**Predictive Analytics:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
