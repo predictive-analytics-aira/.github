@@ -3,8 +3,13 @@
 
 ### Introduction
 
-### Guidelines for contribution
 
+### Guidelines for contribution
+- Raise a request for a repo access if not received yet
+- Make a new branch for yourself in the repo from master. Branch should be named as <first-name>-<last-name>. 
+- Make changes in local, commit it with a commit message
+- set remote to your repo and do an upstream push of your local branch to your branch to complete your push
+- Note: Always do git Pull before doing git push  
 ### docs
 
 ### Fun facts
