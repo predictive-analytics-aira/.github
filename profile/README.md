@@ -10,7 +10,13 @@
 - Make changes in local, commit it with a commit message
 - set remote to your repo and do an upstream push of your local branch to your branch to complete your push
 - Note: Always do git Pull before doing git push  
-### docs
+
+### Current Repos
+1. Prostate Cancer Metastasis Prediction
+2. Prostate Cancer Deep Learning expts
+3. TCGA Prostate Adenocarcinoma Biochemical Recurrence Prediction
+4. AIRATox 
+
 
 ### Fun facts
 
